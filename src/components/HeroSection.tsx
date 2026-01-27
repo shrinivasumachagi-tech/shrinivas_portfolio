@@ -62,8 +62,8 @@ const HeroSection = () => {
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.6, delay: 0.6 }}
           >
-            Passionate about building reliable firmware and innovative IoT solutions.
-            Transforming hardware into intelligent systems.
+            Passionate about embedded systems development, building real-time projects
+            using Microcontrollers and IoT technologies to create efficient and reliable solutions.
           </motion.p>
 
           {/* CTA Buttons */}

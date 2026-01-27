@@ -25,7 +25,7 @@ const AboutSection = () => {
             About <span className="gradient-text">Me</span>
           </h2>
           <p className="section-subtitle mx-auto">
-            Passionate Electronics & Communication Engineer with a focus on embedded systems
+            Passionate Electronics & Communication Engineer with a focus on Embedded Systems
           </p>
         </motion.div>
 
@@ -44,8 +44,8 @@ const AboutSection = () => {
               transition={{ delay: 0.3 }}
             >
               I'm <span className="text-foreground font-semibold">Shrinivas Raju Umachagi</span>, 
-              a final-year Electronics and Communication Engineering student at Bapuji Institute 
-              of Engineering and Technology, Davanagere.
+              a Bachelor of Engineering graduate in Electronics and Communication Engineering 2025 
+              from Bapuji Institute of Engineering and Technology, Davanagere.
             </motion.p>
 
             <motion.p
@@ -54,7 +54,7 @@ const AboutSection = () => {
               animate={isVisible ? { opacity: 1 } : {}}
               transition={{ delay: 0.4 }}
             >
-              My journey in embedded systems began with a curiosity about how hardware and software 
+              My journey in Embedded systems began with a curiosity about how hardware and software 
               work together. Today, I specialize in <span className="text-primary font-medium">firmware development</span>, 
               <span className="text-primary font-medium"> IoT Developer</span>.
             </motion.p>
