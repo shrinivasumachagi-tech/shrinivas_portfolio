@@ -20,7 +20,7 @@ const projects = [
   description: 'Designed and developed an Address Book Management System in C that allows users to store, search, update, and delete contact information efficiently using structured programming concepts.',
   icon: BookUser,
   tags: ['C Programming', 'Data Structures', 'File Handling', 'Linux'],
-  period: 'Jan - Feb, 2026',
+  period: 'Jan, 2026',
   color: 'from-green-500 to-emerald-500',
   github: 'https://github.com/shrinivasumachagi-tech/Addressbook-using-C',
   highlights: [
