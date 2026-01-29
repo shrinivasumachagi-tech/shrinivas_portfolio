@@ -20,7 +20,7 @@ const projects = [
   description: 'Designed and developed an Address Book Management System in C that allows users to store, search, update, and delete contact information efficiently using structured programming concepts.',
   icon: BookUser,
   tags: ['C Programming', 'Data Structures', 'File Handling', 'Linux'],
-  period: 'Jan - Feb, 2025',
+  period: 'Jan - Feb, 2026',
   color: 'from-green-500 to-emerald-500',
   github: 'https://github.com/shrinivasumachagi-tech/Addressbook-using-C',
   highlights: [
@@ -42,7 +42,7 @@ const projects = [
   },
   {
     id: 3,
-    title: 'Fire Detection with Raspberry Pi',
+    title: 'Image Processing Based Fire Detection Using Raspberry Pi',
     description: 'A real-time fire detection system using Raspberry Pi and computer vision algorithms to identify flame patterns from live camera input.',
     icon: Flame,
     tags: ['Raspberry Pi', 'OpenCV', 'Python', 'Computer Vision'],
@@ -66,7 +66,7 @@ const projects = [
   description: 'Designed and implemented an Image Steganography system using the Least Significant Bit (LSB) technique to securely hide and extract secret messages within digital images without noticeable visual distortion.',
   icon: Image,
   tags: ['Python', 'Image Processing', 'Steganography', 'Cyber Security'],
-  period: 'Dec, 2024',
+  period: 'Jan, 2026',
   color: 'from-purple-500 to-pink-500',
   github: 'https://github.com/shrinivasumachagi-tech/Image-Steganography-using-LSB',
   highlights: [
@@ -81,7 +81,7 @@ const projects = [
   description: 'Developed an MP3 Tag Reader application to extract and display metadata such as song title, artist, album, genre, and year from MP3 files using ID3 tag parsing.',
   icon: Music,
   tags: ['C Programming', 'File Handling', 'ID3 Tags', 'Linux'],
-  period: 'Feb, 2025',
+  period: 'Feb, 2026',
   color: 'from-indigo-500 to-blue-500',
   highlights: [
     'Reads and parses ID3v1/ID3v2 metadata',

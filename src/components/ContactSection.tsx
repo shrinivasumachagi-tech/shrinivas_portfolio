@@ -32,7 +32,7 @@ const contactMethods = [
   {
     icon: Instagram,
     label: 'Instagram',
-    value: '@shrinivas',
+    value: '@shrinivas_umachagi',
     href: 'https://instagram.com/',
   },
 ];

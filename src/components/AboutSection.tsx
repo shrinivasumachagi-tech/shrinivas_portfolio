@@ -55,7 +55,7 @@ const AboutSection = () => {
               transition={{ delay: 0.4 }}
             >
               My journey in Embedded systems began with a curiosity about how hardware and software 
-              work together. Today, I specialize in <span className="text-primary font-medium">firmware development</span>, 
+              work together. Today, I specialize in <span className="text-primary font-medium">embedded systems developer</span> focused on <span className="text-primary font-medium">firmware development</span>, 
               <span className="text-primary font-medium"> IoT Developer</span>.
             </motion.p>
 
